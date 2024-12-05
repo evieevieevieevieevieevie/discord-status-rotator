@@ -6,7 +6,7 @@ if you want no buttons, delete both tables and leave Buttons: []
 
 url on the buttons is the link you want the person to be redirected to when they press it.
 
-import pypresence
-import requests 
+pip install pypresence
+pip install requests 
 
 star if you enjoy
