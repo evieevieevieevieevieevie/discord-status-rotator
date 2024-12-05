@@ -1,0 +1,12 @@
+If you dont want a presence then leave Client: "" blank, you can have as many messages as you want, just lay them out like a table and itll go through
+all of them
+If you want ClientID and dont know how to find it through your app use a tutorial!
+You can have only 2 buttons MAX, if you have any more than 2, they wont be shown, if you just want one button then delete the second table
+if you want no buttons, delete both tables and leave Buttons: []
+
+url on the buttons is the link you want the person to be redirected to when they press it.
+
+import pypresence
+import requests 
+
+star if you enjoy
